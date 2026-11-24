@@ -60,7 +60,7 @@ applications: [Streamlit]
 
 ## 🚀 Featured projects
 
-### [Talk to My Data — Generative AI for Retail BI](https://github.com/talk-to-my-data-project)
+### [Talk to My Data — Generative AI for Retail BI](https://github.com/faresnl/talk-to-my-data-project)
 
 **Business question:** How can retail sales teams explore performance without writing SQL?
 
