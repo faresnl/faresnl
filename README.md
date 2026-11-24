@@ -83,9 +83,10 @@ applications: [Streamlit]
 | Dataset | Sales transactions, product details and store locations. |
 | Technology | Python · Streamlit · Power BI dashboard design |
 | Evidence | [Data requirements and local setup](https://github.com/faresnl/debuurtwinkel-dashboard#readme) |
+| Live demo | [Open interactive dashboard](https://debuurtwinkel-dashboard-hgw7fezcxthesh6nybuqhm.streamlit.app/) |
 | Reproducibility | Requires the original CSVs or compatible, shareable sample data. |
 
-<sub>Project descriptions reflect documented scope. Measured findings, individual capstone contributions and live demo links will be added when verified.</sub>
+<sub>Project descriptions reflect documented scope. Measured findings and individual capstone contributions will be added when verified. The De Buurtwinkel demo link is supplied by the project owner.</sub>
 
 ### 🔍 Architecture spotlight — Talk to My Data
 
