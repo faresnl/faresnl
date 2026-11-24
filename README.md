@@ -71,6 +71,7 @@ applications: [Streamlit]
 | Dataset | Global Electronics Retailer — sales, products, customers, stores and exchange rates. |
 | Technology | Python · SQL · BigQuery (GCP) · FastAPI · Streamlit |
 | Evidence | [Architecture, dataset schema and project plan](https://github.com/talk-to-my-data-project#readme) |
+| Live demo | [Watch project video on YouTube](https://www.youtube.com/watch?v=l5f0BkeYtMU) |
 
 ### [De Buurtwinkel — Retail Sales Analytics](https://github.com/faresnl/debuurtwinkel-dashboard)
 
