@@ -67,9 +67,9 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
 <table>
 <tr><th colspan="3" align="center">DATA &amp; AI CERTIFICATIONS</th></tr>
 <tr>
-  <td align="center" valign="top" width="240">
+  <td align="center" valign="top" width="250">
     <br/>
-    <a href="https://credentials.databricks.com/cef6061b-066e-4df1-8399-0255ee0681cc#acc.7wLBqIOk"><img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1780602421" width="112" height="112" alt="Data Engineer Associate" /></a>
+    <a href="https://credentials.databricks.com/cef6061b-066e-4df1-8399-0255ee0681cc#acc.7wLBqIOk"><img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1780602421" width="136" alt="Data Engineer Associate" /><br/><img src="assets/certification-labels/1.svg" width="190" alt="DATABRICKS" /></a>
     <br/><br/>
     <b>Databricks Certified<br/>Data Engineer Associate</b>
     <br/><sub>Databricks</sub>
@@ -77,9 +77,9 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <a href="https://credentials.databricks.com/cef6061b-066e-4df1-8399-0255ee0681cc#acc.7wLBqIOk">Verify</a>
     <br/><br/>
   </td>
-  <td align="center" valign="top" width="240">
+  <td align="center" valign="top" width="250">
     <br/>
-    <a href="https://learn.microsoft.com/en-us/users/faresh/credentials/948cfdf4963e63f6"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="112" height="112" alt="Azure AI Cloud Developer · AI-200" /></a>
+    <a href="https://learn.microsoft.com/en-us/users/faresh/credentials/948cfdf4963e63f6"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="136" alt="Azure AI Cloud Developer · AI-200" /><br/><img src="assets/certification-labels/2.svg" width="190" alt="AI-200 · MICROSOFT" /></a>
     <br/><br/>
     <b>Microsoft Certified<br/>Azure AI Cloud Developer<br/>Associate (AI-200)</b>
     <br/><sub>Microsoft</sub>
@@ -87,9 +87,9 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <a href="https://learn.microsoft.com/en-us/users/faresh/credentials/948cfdf4963e63f6">Verify</a>
     <br/><br/>
   </td>
-  <td align="center" valign="top" width="240">
+  <td align="center" valign="top" width="250">
     <br/>
-    <a href="https://www.credly.com/badges/dfb90f86-5549-4286-b896-5529743bb2ad"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="112" height="112" alt="Azure Fundamentals · AZ-900" /></a>
+    <a href="https://www.credly.com/badges/dfb90f86-5549-4286-b896-5529743bb2ad"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="136" alt="Azure Fundamentals · AZ-900" /><br/><img src="assets/certification-labels/3.svg" width="190" alt="AZ-900 · MICROSOFT" /></a>
     <br/><br/>
     <b>Microsoft Certified<br/>Azure Fundamentals (AZ-900)</b>
     <br/><sub>Microsoft</sub>
@@ -100,9 +100,9 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
 </tr>
 <tr><th colspan="3" align="center">PREVIOUSLY EARNED AWS CERTIFICATIONS</th></tr>
 <tr>
-  <td align="center" valign="top" width="240">
+  <td align="center" valign="top" width="250">
     <br/>
-    <a href="https://www.credly.com/badges/88b62b68-021d-4c63-b0ee-f7ff7dff7699"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="112" height="112" alt="Solutions Architect Associate" /></a>
+    <a href="https://www.credly.com/badges/88b62b68-021d-4c63-b0ee-f7ff7dff7699"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="136" alt="Solutions Architect Associate" /><br/><img src="assets/certification-labels/4.svg" width="190" alt="AWS · ASSOCIATE" /></a>
     <br/><br/>
     <b>AWS Certified<br/>Solutions Architect – Associate</b>
     <br/><sub>AWS · Previously earned</sub>
@@ -110,9 +110,9 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <a href="https://www.credly.com/badges/88b62b68-021d-4c63-b0ee-f7ff7dff7699">Verify</a>
     <br/><br/>
   </td>
-  <td align="center" valign="top" width="240">
+  <td align="center" valign="top" width="250">
     <br/>
-    <a href="https://www.credly.com/badges/2b2db6c5-4383-4817-a0d8-506b13debcb7"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="112" height="112" alt="Developer Associate" /></a>
+    <a href="https://www.credly.com/badges/2b2db6c5-4383-4817-a0d8-506b13debcb7"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="136" alt="Developer Associate" /><br/><img src="assets/certification-labels/5.svg" width="190" alt="AWS · ASSOCIATE" /></a>
     <br/><br/>
     <b>AWS Certified<br/>Developer – Associate</b>
     <br/><sub>AWS · Previously earned</sub>
@@ -120,9 +120,9 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <a href="https://www.credly.com/badges/2b2db6c5-4383-4817-a0d8-506b13debcb7">Verify</a>
     <br/><br/>
   </td>
-  <td align="center" valign="top" width="240">
+  <td align="center" valign="top" width="250">
     <br/>
-    <a href="https://www.credly.com/badges/c54d5557-c03c-43f3-99ee-1d759c126a64"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="112" height="112" alt="Cloud Practitioner" /></a>
+    <a href="https://www.credly.com/badges/c54d5557-c03c-43f3-99ee-1d759c126a64"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="136" alt="Cloud Practitioner" /><br/><img src="assets/certification-labels/6.svg" width="190" alt="AWS · FOUNDATIONAL" /></a>
     <br/><br/>
     <b>AWS Certified<br/>Cloud Practitioner</b>
     <br/><sub>AWS · Previously earned</sub>
@@ -133,9 +133,9 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
 </tr>
 <tr><th colspan="3" align="center">PROFESSIONAL DEVELOPMENT</th></tr>
 <tr>
-  <td align="center" valign="top" width="240">
+  <td align="center" valign="top" width="250">
     <br/>
-    <a href="https://credentials.databricks.com/60f36f4f-0940-41d2-a28c-b97503f322db#acc.uw1NWreX"><img src="https://www.databricks.com/sites/default/files/2021/12/lakehouse-fundamentals.png?v=1660758008" width="112" height="112" alt="Lakehouse Fundamentals" /></a>
+    <a href="https://credentials.databricks.com/60f36f4f-0940-41d2-a28c-b97503f322db#acc.uw1NWreX"><img src="https://www.databricks.com/sites/default/files/2021/12/lakehouse-fundamentals.png?v=1660758008" width="136" alt="Lakehouse Fundamentals" /><br/><img src="assets/certification-labels/7.svg" width="190" alt="DATABRICKS · ACCREDITATION" /></a>
     <br/><br/>
     <b>Databricks<br/>Lakehouse Fundamentals</b>
     <br/><sub>Databricks · Accreditation</sub>
@@ -143,9 +143,9 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <a href="https://credentials.databricks.com/60f36f4f-0940-41d2-a28c-b97503f322db#acc.uw1NWreX">Verify</a>
     <br/><br/>
   </td>
-  <td align="center" valign="top" width="240">
+  <td align="center" valign="top" width="250">
     <br/>
-    <a href="https://www.coursera.org/account/accomplishments/verify/SS0LTNEZF1NQ"><img src="https://images.credly.com/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png" width="112" height="112" alt="Tools for Data Science" /></a>
+    <a href="https://www.coursera.org/account/accomplishments/verify/SS0LTNEZF1NQ"><img src="https://images.credly.com/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png" width="136" alt="Tools for Data Science" /><br/><img src="assets/certification-labels/8.svg" width="190" alt="IBM · COURSERA" /></a>
     <br/><br/>
     <b>IBM<br/>Tools for Data Science</b>
     <br/><sub>IBM · Coursera · Course certificate</sub>
@@ -153,9 +153,9 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <a href="https://www.coursera.org/account/accomplishments/verify/SS0LTNEZF1NQ">Verify</a>
     <br/><br/>
   </td>
-  <td align="center" valign="top" width="240">
+  <td align="center" valign="top" width="250">
     <br/>
-    <a href="https://www.coursera.org/account/accomplishments/verify/E76FSURNV2W7"><img src="https://images.credly.com/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="112" height="112" alt="What is Data Science?" /></a>
+    <a href="https://www.coursera.org/account/accomplishments/verify/E76FSURNV2W7"><img src="https://images.credly.com/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="136" alt="What is Data Science?" /><br/><img src="assets/certification-labels/9.svg" width="190" alt="IBM · COURSERA" /></a>
     <br/><br/>
     <b>IBM<br/>What is Data Science?</b>
     <br/><sub>IBM · Coursera · Course certificate</sub>
