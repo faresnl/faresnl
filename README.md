@@ -74,7 +74,7 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <b>Databricks Certified<br/>Data Engineer Associate</b>
     <br/><sub>Databricks</sub>
     <br/><br/>
-    <a href="https://credentials.databricks.com/cef6061b-066e-4df1-8399-0255ee0681cc#acc.7wLBqIOk">Verify credential ↗</a>
+    <a href="https://credentials.databricks.com/cef6061b-066e-4df1-8399-0255ee0681cc#acc.7wLBqIOk">Verify</a>
     <br/><br/>
   </td>
   <td align="center" valign="top" width="240">
@@ -84,7 +84,7 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <b>Microsoft Certified<br/>Azure AI Cloud Developer<br/>Associate (AI-200)</b>
     <br/><sub>Microsoft</sub>
     <br/><br/>
-    <a href="https://learn.microsoft.com/en-us/users/faresh/credentials/948cfdf4963e63f6">Verify credential ↗</a>
+    <a href="https://learn.microsoft.com/en-us/users/faresh/credentials/948cfdf4963e63f6">Verify</a>
     <br/><br/>
   </td>
   <td align="center" valign="top" width="240">
@@ -94,7 +94,7 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <b>Microsoft Certified<br/>Azure Fundamentals (AZ-900)</b>
     <br/><sub>Microsoft</sub>
     <br/><br/>
-    <a href="https://www.credly.com/badges/dfb90f86-5549-4286-b896-5529743bb2ad">Verify credential ↗</a>
+    <a href="https://www.credly.com/badges/dfb90f86-5549-4286-b896-5529743bb2ad">Verify</a>
     <br/><br/>
   </td>
 </tr>
@@ -107,7 +107,7 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <b>AWS Certified<br/>Solutions Architect – Associate</b>
     <br/><sub>AWS · Previously earned</sub>
     <br/><br/>
-    <a href="https://www.credly.com/badges/88b62b68-021d-4c63-b0ee-f7ff7dff7699">Verify credential ↗</a>
+    <a href="https://www.credly.com/badges/88b62b68-021d-4c63-b0ee-f7ff7dff7699">Verify</a>
     <br/><br/>
   </td>
   <td align="center" valign="top" width="240">
@@ -117,7 +117,7 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <b>AWS Certified<br/>Developer – Associate</b>
     <br/><sub>AWS · Previously earned</sub>
     <br/><br/>
-    <a href="https://www.credly.com/badges/2b2db6c5-4383-4817-a0d8-506b13debcb7">Verify credential ↗</a>
+    <a href="https://www.credly.com/badges/2b2db6c5-4383-4817-a0d8-506b13debcb7">Verify</a>
     <br/><br/>
   </td>
   <td align="center" valign="top" width="240">
@@ -127,7 +127,7 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <b>AWS Certified<br/>Cloud Practitioner</b>
     <br/><sub>AWS · Previously earned</sub>
     <br/><br/>
-    <a href="https://www.credly.com/badges/c54d5557-c03c-43f3-99ee-1d759c126a64">Verify credential ↗</a>
+    <a href="https://www.credly.com/badges/c54d5557-c03c-43f3-99ee-1d759c126a64">Verify</a>
     <br/><br/>
   </td>
 </tr>
@@ -140,7 +140,7 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <b>Databricks<br/>Lakehouse Fundamentals</b>
     <br/><sub>Databricks · Accreditation</sub>
     <br/><br/>
-    <a href="https://credentials.databricks.com/60f36f4f-0940-41d2-a28c-b97503f322db#acc.uw1NWreX">Verify credential ↗</a>
+    <a href="https://credentials.databricks.com/60f36f4f-0940-41d2-a28c-b97503f322db#acc.uw1NWreX">Verify</a>
     <br/><br/>
   </td>
   <td align="center" valign="top" width="240">
@@ -150,7 +150,7 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <b>IBM<br/>Tools for Data Science</b>
     <br/><sub>IBM · Coursera · Course certificate</sub>
     <br/><br/>
-    <a href="https://www.coursera.org/account/accomplishments/verify/SS0LTNEZF1NQ">Verify credential ↗</a>
+    <a href="https://www.coursera.org/account/accomplishments/verify/SS0LTNEZF1NQ">Verify</a>
     <br/><br/>
   </td>
   <td align="center" valign="top" width="240">
@@ -160,7 +160,7 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
     <b>IBM<br/>What is Data Science?</b>
     <br/><sub>IBM · Coursera · Course certificate</sub>
     <br/><br/>
-    <a href="https://www.coursera.org/account/accomplishments/verify/E76FSURNV2W7">Verify credential ↗</a>
+    <a href="https://www.coursera.org/account/accomplishments/verify/E76FSURNV2W7">Verify</a>
     <br/><br/>
   </td>
 </tr>
