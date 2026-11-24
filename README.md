@@ -27,9 +27,8 @@ focus:
   - Generative AI
 languages: [Python, SQL]
 analytics: [Power BI, Excel]
-platforms: [Databricks, Azure, BigQuery]
+platforms: [Azure, AWS, GCP, Databricks]
 applications: [Streamlit]
-location: Netherlands
 ```
 
 </td>
