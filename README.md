@@ -107,7 +107,6 @@ Professional credentials earned — follow the verification links for current va
 |---|---|---|
 | **[Talk to My Data](https://github.com/faresnl/Talk-to-my-data)** | Collaborative GenAI BI capstone: natural-language retail questions, SQL generation and KPI insights. | Python · SQL · BigQuery · Streamlit |
 | **[De Buurtwinkel](https://github.com/faresnl/debuurtwinkel-dashboard)** | Retail dashboard recreated from a Power BI design; source data required to run. | Python · Streamlit · BI |
-| **[KNM Horizon](https://github.com/faresnl/knm-horizon-streamlit)** | Interactive learning application with structured lessons, quizzes and progress tracking. | Python · Streamlit |
 
 ### 🔍 Architecture spotlight — Talk to My Data
 
