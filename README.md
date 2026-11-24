@@ -60,7 +60,7 @@ applications: [Streamlit]
 
 ## 🚀 Featured projects
 
-### [Talk to My Data — Generative AI for Retail BI](https://github.com/faresnl/Talk-to-my-data)
+### [Talk to My Data — Generative AI for Retail BI](https://github.com/RaedBafadhl/Talk-to-my-data)
 
 **Business question:** How can retail sales teams explore performance without writing SQL?
 
@@ -70,7 +70,7 @@ applications: [Streamlit]
 | Business metrics | Revenue trends, average order value, product performance and category revenue share. |
 | Dataset | Global Electronics Retailer — sales, products, customers, stores and exchange rates. |
 | Technology | Python · SQL · BigQuery (GCP) · FastAPI · Streamlit |
-| Evidence | [Architecture, dataset schema and project plan](https://github.com/faresnl/Talk-to-my-data#readme) |
+| Evidence | [Architecture, dataset schema and project plan](https://github.com/RaedBafadhl/Talk-to-my-data#readme) |
 
 ### [De Buurtwinkel — Retail Sales Analytics](https://github.com/faresnl/debuurtwinkel-dashboard)
 
