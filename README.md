@@ -58,6 +58,56 @@ applications: [Streamlit]
 
 <img src="assets/portfolio-divider.svg" width="100%" alt="" />
 
+## 🚀 Featured projects
+
+### [Talk to My Data — Generative AI for Retail BI](https://github.com/faresnl/Talk-to-my-data)
+
+**Business question:** How can retail sales teams explore performance without writing SQL?
+
+| | Project overview |
+|---|---|
+| Solution | Collaborative capstone designing a natural-language analytics assistant with schema-aware SQL generation, validation and visual responses. |
+| Business metrics | Revenue trends, average order value, product performance and category revenue share. |
+| Dataset | Global Electronics Retailer — sales, products, customers, stores and exchange rates. |
+| Technology | Python · SQL · BigQuery (GCP) · FastAPI · Streamlit |
+| Evidence | [Architecture, dataset schema and project plan](https://github.com/faresnl/Talk-to-my-data#readme) |
+
+### [De Buurtwinkel — Retail Sales Analytics](https://github.com/faresnl/debuurtwinkel-dashboard)
+
+**Business question:** How can retailers monitor sales performance across products, stores and regions?
+
+| | Project overview |
+|---|---|
+| Solution | Interactive Streamlit recreation of a Power BI retail dashboard. |
+| Analysis | Sales and product performance, geographic comparisons and KPI reporting. |
+| Dataset | Sales transactions, product details and store locations. |
+| Technology | Python · Streamlit · Power BI dashboard design |
+| Evidence | [Data requirements and local setup](https://github.com/faresnl/debuurtwinkel-dashboard#readme) |
+| Reproducibility | Requires the original CSVs or compatible, shareable sample data. |
+
+<sub>Project descriptions reflect documented scope. Measured findings, individual capstone contributions and live demo links will be added when verified.</sub>
+
+### 🔍 Architecture spotlight — Talk to My Data
+
+<img src="assets/pipeline.svg" width="100%" alt="Conceptual text-to-SQL pipeline: question, AI, SQL validation, warehouse and insights" />
+
+<details>
+<summary><b>Explore the capstone architecture</b></summary>
+
+| Layer | Purpose |
+|---|---|
+| Data platform | Retail data preparation and BigQuery warehouse |
+| AI | Schema-aware natural-language to SQL generation |
+| Backend | Read-only query validation and KPI computation |
+| Presentation | Tables, charts and natural-language summaries |
+
+This is the collaborative project architecture; see the repository for implementation scope and team contributions.
+
+</details>
+
+
+<img src="assets/portfolio-divider.svg" width="100%" alt="" />
+
 ## 🏅 Certifications
 
 <div align="center">
@@ -171,31 +221,6 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
 </div>
 
 <img src="assets/portfolio-divider.svg" width="100%" alt="" />
-
-## 🚀 Featured projects
-
-| Repository | Business problem & solution | Stack |
-|---|---|---|
-| **[Talk to My Data](https://github.com/faresnl/Talk-to-my-data)** | Collaborative GenAI BI capstone: natural-language retail questions, SQL generation and KPI insights. | Python · SQL · BigQuery · Streamlit |
-| **[De Buurtwinkel](https://github.com/faresnl/debuurtwinkel-dashboard)** | Retail dashboard recreated from a Power BI design; source data required to run. | Python · Streamlit · BI |
-
-### 🔍 Architecture spotlight — Talk to My Data
-
-<img src="assets/pipeline.svg" width="100%" alt="Conceptual text-to-SQL pipeline: question, AI, SQL validation, warehouse and insights" />
-
-<details>
-<summary><b>Explore the capstone architecture</b></summary>
-
-| Layer | Purpose |
-|---|---|
-| Data platform | Retail data preparation and BigQuery warehouse |
-| AI | Schema-aware natural-language to SQL generation |
-| Backend | Read-only query validation and KPI computation |
-| Presentation | Tables, charts and natural-language summaries |
-
-This is the collaborative project architecture; see the repository for implementation scope and team contributions.
-
-</details>
 
 ## 🎯 Current focus
 
