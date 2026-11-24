@@ -69,7 +69,7 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
 <tr>
   <td align="center" valign="top" width="250">
     <br/>
-    <a href="https://credentials.databricks.com/cef6061b-066e-4df1-8399-0255ee0681cc#acc.7wLBqIOk"><img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1780602421" width="136" alt="Data Engineer Associate" /></a>
+    <a href="https://credentials.databricks.com/cef6061b-066e-4df1-8399-0255ee0681cc#acc.7wLBqIOk"><img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1780602421" height="136" alt="Data Engineer Associate" /></a>
     <br/><br/>
     <b>Databricks Certified<br/>Data Engineer Associate</b>
     <br/><sub>Databricks</sub>
