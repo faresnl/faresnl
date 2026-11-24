@@ -154,7 +154,7 @@ Professional certifications &amp; continuous learning across data, AI and cloud.
 <tr>
   <td colspan="3" align="center">
     <br/>
-    <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/"><img src="https://img.shields.io/badge/PL--300-In%20Progress-f59e0b?style=for-the-badge&amp;logo=powerbi&amp;logoColor=white" alt="PL-300 — In progress" /></a>
+    <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="136" alt="Microsoft Certified Associate — PL-300 target certification, in progress" /></a>
     <br/><br/>
     <b>Microsoft Certified: Power BI Data Analyst Associate (PL-300)</b>
     <br/><sub>In progress · Exam date: 30 Jan 2027</sub>
