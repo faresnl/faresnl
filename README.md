@@ -1,37 +1,62 @@
 <div align="center">
-<img src="assets/hero.svg" width="100%" alt="Fares H. — Data Analytics, Engineering and AI" />
+<img src="assets/portfolio-hero.svg" width="100%" alt="Fares Al-humaikani — Data Engineering, Business Intelligence and Generative AI" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-faresnl-111827?style=for-the-badge&logo=github&logoColor=67e8f9)](https://github.com/faresnl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fares-0f172a?style=for-the-badge&logo=linkedin&logoColor=67e8f9)](https://www.linkedin.com/in/faresalhumaikani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=67e8f9)](https://www.linkedin.com/in/faresalhumaikani/)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=67e8f9)](https://github.com/faresnl)
+[![Followers](https://img.shields.io/github/followers/faresnl?style=for-the-badge&logo=github&color=0f172a&labelColor=1e1b4b)](https://github.com/faresnl?tab=followers)
+
 </div>
 
-## About me
+## 🪟 About
 
-I am developing data-driven solutions at the intersection of business intelligence, cloud data engineering and generative AI. My portfolio explores how raw data can become reliable insights, interactive dashboards and accessible AI applications.
+<table>
+<tr>
+<td valign="top" width="55%">
 
-## Three areas of focus
+My focus is building data-driven solutions that connect business questions with reliable data and actionable insights. My portfolio spans retail analytics, cloud data platforms and natural-language BI applications.
+
+I bring together SQL, Python, Power BI and cloud technologies, with credentials from Databricks, Microsoft and AWS.
+
+</td>
+<td valign="top" width="45%">
+
+```yaml
+focus:
+  - Data Engineering
+  - Business Intelligence
+  - Generative AI
+languages: [Python, SQL]
+analytics: [Power BI, Excel]
+platforms: [Databricks, Azure, BigQuery]
+applications: [Streamlit]
+location: Netherlands
+```
+
+</td>
+</tr>
+</table>
+
+<img src="assets/portfolio-divider.svg" width="100%" alt="" />
+
+## 🧩 Three pillars
 
 <img src="assets/pillars.svg" width="100%" alt="Business intelligence, data engineering and generative AI" />
 
-| Business Intelligence | Data Engineering | Generative AI |
-|---|---|---|
-| SQL analysis | ETL and data modeling | Natural-language analytics |
-| Power BI and Excel | Databricks learning | Text-to-SQL |
-| Interactive dashboards | Cloud data platforms | KPI-driven AI applications |
+| Data Engineering | Business Intelligence | Generative AI |
+|:---|:---|:---|
+| ETL and data modeling | SQL analysis and KPIs | Natural-language analytics |
+| Lakehouse concepts | Retail dashboards | Text-to-SQL workflows |
+| Cloud data platforms | Data visualization | SQL validation and guardrails |
 
-## Technology toolkit
+## 🛠️ Technology stack
 
-**Analytics & BI**
+| Domain | Tools |
+|---|---|
+| Analytics & BI | ![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=67e8f9&labelColor=1e1b4b) ![Power BI](https://img.shields.io/badge/Power%20BI-0f172a?style=flat-square&logo=powerbi&logoColor=67e8f9&labelColor=1e1b4b) ![Excel](https://img.shields.io/badge/Excel-0f172a?style=flat-square&logo=microsoftexcel&logoColor=67e8f9&labelColor=1e1b4b) |
+| Programming & applications | ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=67e8f9&labelColor=1e1b4b) ![Streamlit](https://img.shields.io/badge/Streamlit-0f172a?style=flat-square&logo=streamlit&logoColor=67e8f9&labelColor=1e1b4b) ![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=67e8f9&labelColor=1e1b4b) |
+| Cloud & data platforms | ![Databricks](https://img.shields.io/badge/Databricks-0f172a?style=flat-square&logo=databricks&logoColor=67e8f9&labelColor=1e1b4b) ![Azure](https://img.shields.io/badge/Azure-0f172a?style=flat-square&logo=microsoftazure&logoColor=67e8f9&labelColor=1e1b4b) ![BigQuery](https://img.shields.io/badge/BigQuery-0f172a?style=flat-square&logo=googlebigquery&logoColor=67e8f9&labelColor=1e1b4b) ![AWS](https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonwebservices&logoColor=67e8f9&labelColor=1e1b4b) |
 
-![SQL](https://img.shields.io/badge/SQL-164e63?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-854d0e?style=for-the-badge) ![Excel](https://img.shields.io/badge/Excel-166534?style=for-the-badge)
-
-**Programming & applications**
-
-![Python](https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-881337?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-9a3412?style=for-the-badge&logo=git&logoColor=white)
-
-**Cloud & data platforms — project exposure and learning**
-
-![BigQuery](https://img.shields.io/badge/BigQuery-1e40af?style=for-the-badge&logo=googlebigquery&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-991b1b?style=for-the-badge&logo=databricks&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-075985?style=for-the-badge)
+<img src="assets/portfolio-divider.svg" width="100%" alt="" />
 
 ## 🏅 Certifications
 
@@ -73,35 +98,60 @@ Professional credentials earned — follow the verification links for current va
 </table>
 </div>
 
-## Featured projects
 
-| Project | What it explores | Technology |
+<img src="assets/portfolio-divider.svg" width="100%" alt="" />
+
+## 🚀 Featured projects
+
+| Repository | Business problem & solution | Stack |
 |---|---|---|
-| [Talk to My Data](https://github.com/faresnl/Talk-to-my-data) | Collaborative GenAI BI capstone for retail analytics | Python, SQL, BigQuery, Streamlit |
-| [De Buurtwinkel](https://github.com/faresnl/debuurtwinkel-dashboard) | Streamlit recreation of a retail Power BI dashboard; requires source data | Python, Streamlit, BI |
-| [KNM Horizon](https://github.com/faresnl/knm-horizon-streamlit) | Interactive educational application with quizzes and progress tracking | Python, Streamlit |
+| **[Talk to My Data](https://github.com/faresnl/Talk-to-my-data)** | Collaborative GenAI BI capstone: natural-language retail questions, SQL generation and KPI insights. | Python · SQL · BigQuery · Streamlit |
+| **[De Buurtwinkel](https://github.com/faresnl/debuurtwinkel-dashboard)** | Retail dashboard recreated from a Power BI design; source data required to run. | Python · Streamlit · BI |
+| **[KNM Horizon](https://github.com/faresnl/knm-horizon-streamlit)** | Interactive learning application with structured lessons, quizzes and progress tracking. | Python · Streamlit |
 
-### From business questions to insights
+### 🔍 Architecture spotlight — Talk to My Data
 
-<img src="assets/pipeline.svg" width="100%" alt="Conceptual text-to-SQL architecture: question, AI, SQL validation, warehouse, insights" />
+<img src="assets/pipeline.svg" width="100%" alt="Conceptual text-to-SQL pipeline: question, AI, SQL validation, warehouse and insights" />
 
-The Talk to My Data capstone explores an architecture that translates business questions into read-only SQL and presents retail KPIs, charts and explanations. See the project repository for the team scope and implementation details.
+<details>
+<summary><b>Explore the capstone architecture</b></summary>
 
-## Current learning
+| Layer | Purpose |
+|---|---|
+| Data platform | Retail data preparation and BigQuery warehouse |
+| AI | Schema-aware natural-language to SQL generation |
+| Backend | Read-only query validation and KPI computation |
+| Presentation | Tables, charts and natural-language summaries |
 
-- Databricks data engineering and lakehouse concepts
-- Azure AI and cloud development
-- SQL, Python and business intelligence workflows
-- Generative AI for data applications
+This is the collaborative project architecture; see the repository for implementation scope and team contributions.
 
-## GitHub activity
+</details>
+
+## 🎯 Current focus
+
+- Developing end-to-end data engineering and lakehouse workflows.
+- Applying SQL and Python to business intelligence problems.
+- Exploring safe, schema-aware generative AI applications for analytics.
+- Strengthening reproducibility and documentation across portfolio projects.
+
+<img src="assets/portfolio-divider.svg" width="100%" alt="" />
+
+## 📈 GitHub analytics
 
 <div align="center">
-<img src="https://ghchart.rshah.org/22d3ee/faresnl" width="100%" alt="Public GitHub contribution calendar" />
+
+<img width="100%" src="https://ghchart.rshah.org/22d3ee/faresnl" alt="Public GitHub contribution calendar" />
+
+[Explore repositories](https://github.com/faresnl?tab=repositories) · [View contributions](https://github.com/faresnl)
+
 </div>
 
-## Connect
+## 🤝 Connect
 
-I welcome conversations about analytics, data engineering and AI projects. Connect with me on [LinkedIn](https://www.linkedin.com/in/faresalhumaikani/) or [GitHub](https://github.com/faresnl).
+<div align="center">
 
+**Interested in data engineering, analytics and applied AI collaboration.**
 
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=67e8f9)](https://www.linkedin.com/in/faresalhumaikani/)
+
+</div>
